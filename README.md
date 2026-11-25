@@ -8,4 +8,6 @@ This repository contains configuration and tokenizer files for three PlantESM2 m
 | 650M (10B) | `PlantESM2-650M-10B/` |
 | 150M (10B) | `PlantESM2-150M-10B/` |
 
-Model weights are planned for release on the Hugging Face Hub. The 3B directory includes the index that maps model parameters to their weight shards.
+## Model weights
+
+Download the model weights from [PlantESM2 on Hugging Face](https://huggingface.co/liushuo666/PlantESM2). The 3B directory includes the index that maps model parameters to their weight shards.
